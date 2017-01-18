@@ -22,30 +22,51 @@
 
 .image-heading-1 {
   position: relative;
-}
-
-.hl-heading {
-  position: absolute; 
-  top: 124px; 
-  left: 30px; 
-  width: 100%; 
-}
-
-.p-heading {
-  position: absolute; 
-  top: 180px; 
-  left: 30px; 
   width: 100%;
-  }
+}
 
-  .btn-default {
-    position: absolute;
-    top: 230px;
-    left: 30px;
-    color: #333;
-    background-color: black;
-    border-style: none;
-    border-radius: 0px;
-    color: white;
-    font-size: 10px;
+h3 {
+  color: black;
+  text-shadow: none;
+  font-size: 18px;
+  text-align: left;
+}
+
+p {
+  color: black;
+  text-shadow: none;
+  font-size: 12px;
+  text-align: left;
+
+}
+
+button {
+  background-color: black;
+  border-style: none;
+  font-size: 12px;
+  padding: 8px 20px;
+  text-align: left;
+  display: block;
+}
+
+.carousel-caption {
+  top: 28%;
+  left: 12%;
+}
+
+.img-thumbnail {
+  border: 0px;
+
+}
+
+.small-images {
+  float: left;
+  padding-left: 30px;
+  padding-top: 30px;
+}
+
+.shop-link {
+  font-size: 10px;
+  color: skyblue;
+  letter-spacing: 1.5px;
 }
