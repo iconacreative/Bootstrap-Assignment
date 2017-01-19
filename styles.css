@@ -116,12 +116,42 @@ button {
   color: white;
 }
 
-.imageAndText .col button {
+/*.imageAndText .col button {
   background color: white;
-}
+}*/
 
 .for-work-header p {
   text-align: center;
   color: black;
   font-size: 30px;
+}
+
+.h3white {
+  color: white;
+}
+
+.pwhite {
+  color: white;
+}
+
+.second-carousel {
+  padding-top: 30px;
+}
+
+.spacer {
+  padding-top: 30px;
+  padding-left: 30px;
+
+}
+
+.spacer-p {
+  font-size: 14px;
+  color: gray;
+}
+
+.block {
+  background-color: #e4e4e4;
+  width: 100%;
+  height: 400px;
+  padding-top: 30px;
 }
