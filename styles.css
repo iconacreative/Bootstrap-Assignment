@@ -92,3 +92,36 @@ button {
   padding-top: 15px;
   padding-left: 15px;
 }*/
+
+.homepage-image-3 {
+  padding: 30px;
+}
+
+.imageAndText {
+  position: relative;
+}
+
+.imageAndText .col {
+  position: absolute; z-index: 1; 
+  top: 35%;
+  left: 5%;
+  color: white;
+}
+
+.imageAndText h3 {
+  color: white;
+}
+
+.imageAndText p {
+  color: white;
+}
+
+.imageAndText .col button {
+  background color: white;
+}
+
+.for-work-header p {
+  text-align: center;
+  color: black;
+  font-size: 30px;
+}
